@@ -1,3 +1,7 @@
+Forked from  https://github.com/SharpMap/SharpMap
+
+Remove GeoAPI, and Upgrading NetTopologySuite from 1.x  to 2.x
+
 # SharpMap
 An easy-to-use mapping library for use in web and desktop applications   
 
