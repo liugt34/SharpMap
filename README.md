@@ -1,4 +1,4 @@
-# some difference
+# Some difference
 1. Forked from  https://github.com/SharpMap/SharpMap
 2. Remove GeoAPI, and Upgrading NetTopologySuite from 1.x  to 2.x
 
